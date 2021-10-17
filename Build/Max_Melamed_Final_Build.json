@@ -1,0 +1,16 @@
+{
+"companyName": "Max Melamed",
+"productName": "AR 3D Printing Experience",
+"productVersion": "0.1",
+"dataUrl": "Max_Melamed_Final_Build.data.unityweb",
+"wasmCodeUrl": "Max_Melamed_Final_Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Max_Melamed_Final_Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
